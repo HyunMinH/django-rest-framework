@@ -3,6 +3,7 @@
 [![build-status-image]][build-status]
 [![coverage-status-image]][codecov]
 [![pypi-version]][pypi]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyunMinH%2Fdjango-rest-framework.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyunMinH%2Fdjango-rest-framework?ref=badge_shield)
 
 **Awesome web-browsable Web APIs.**
 
@@ -224,3 +225,7 @@ Please see the [security policy][security-policy].
 
 [docs]: https://www.django-rest-framework.org/
 [security-policy]: https://github.com/encode/django-rest-framework/security/policy
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyunMinH%2Fdjango-rest-framework.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyunMinH%2Fdjango-rest-framework?ref=badge_large)
